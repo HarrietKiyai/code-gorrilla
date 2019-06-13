@@ -1,7 +1,7 @@
 # code-gorrilla
 Build a Code Gorrilla Bootcamp 2019 profile page - using HTML, CSS and Javascript.
 
-Live demo: 
+Live demo: https://harrietkiyai.github.io/code-gorrilla/
 - [] Represent Code Gorrilla core values.
 - [] Showcase participants, coaches and employees and what they do.
 - [] Implement responsive functionallity: mobile friendly and looks good with all computer gadgets.
